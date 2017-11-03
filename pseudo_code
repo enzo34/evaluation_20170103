@@ -1,0 +1,27 @@
+déclarer un tableau 
+lire le fichier
+prendre les lignes du fichier
+
+	parcourir le tableau
+		si élément clé pour théme
+		ranger dans un tableau théme
+
+		encore si élément clé pour question
+		ranger dans un tableau question
+		
+		encore si élément clé pour réponse
+		ranger dans un tableau réponse
+
+pour le tableau théme aficher les index en ordre croissant
+
+pour le tableau question afficher en ordre croissant
+
+pour le tableau réponse afficher en ordre croissant
+
+puis passer a l'index suivants
+
+
+créer une variable= qui permet de lire les données saisis
+	puis les stocker dans des variables définis
+
+mettre en lien les variables des réponses et des questions dans un fichier HTML.
